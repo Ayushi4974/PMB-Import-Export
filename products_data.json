@@ -1,0 +1,170 @@
+{
+  "detergent": [
+    {
+      "name": "Washing Powder",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pralni_pra%C5%A1ek.JPG/960px-Pralni_pra%C5%A1ek.JPG"
+    },
+    {
+      "name": "Liquid Detergent",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Afwasmiddel.jpg/960px-Afwasmiddel.jpg"
+    },
+    {
+      "name": "Dishwashing Liquid",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Afwasmiddel.jpg/960px-Afwasmiddel.jpg"
+    },
+    {
+      "name": "Fabric Softener",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pigeon_logo_en.png"
+    },
+    {
+      "name": "Detergent Pods",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Laundry_detergent_pods.jpg/960px-Laundry_detergent_pods.jpg"
+    },
+    {
+      "name": "Surface Cleaner",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Vacuum_Clean.jpg"
+    },
+    {
+      "name": "Glass Cleaner",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Vacuum_Clean.jpg"
+    },
+    {
+      "name": "Toilet Cleaner",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ToiletcleanersbyAlofok_%284%29.JPG/960px-ToiletcleanersbyAlofok_%284%29.JPG"
+    },
+    {
+      "name": "Stain Remover",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/President%27s_Choice_Club_Soda.jpg/960px-President%27s_Choice_Club_Soda.jpg"
+    },
+    {
+      "name": "Bleach",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Cloroxheadquarters.jpg"
+    }
+  ],
+  "spices": [
+    {
+      "name": "Red Chilli Powder",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/BolivianChilePowder2.JPG"
+    },
+    {
+      "name": "Turmeric Powder",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Turmeric_inflorescence.jpg/960px-Turmeric_inflorescence.jpg"
+    },
+    {
+      "name": "Coriander Powder",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Coriandrum_sativum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-193.jpg"
+    },
+    {
+      "name": "Cumin Seeds",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cuminum_cyminum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-198.jpg"
+    },
+    {
+      "name": "Black Pepper",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg"
+    },
+    {
+      "name": "Cardamom",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/02017_0119_Kardamom%2C_Winter_in_den_Beskiden.jpg/960px-02017_0119_Kardamom%2C_Winter_in_den_Beskiden.jpg"
+    },
+    {
+      "name": "Cloves",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Syzygium_aromaticum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-030.jpg"
+    },
+    {
+      "name": "Cinnamon",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cinnamomum_verum_spices.jpg/960px-Cinnamomum_verum_spices.jpg"
+    },
+    {
+      "name": "Mustard Seeds",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mustard.png/960px-Mustard.png"
+    },
+    {
+      "name": "Garam Masala",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Garammasalaphoto.jpg/960px-Garammasalaphoto.jpg"
+    }
+  ],
+  "grocery": [
+    {
+      "name": "Premium Salt",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rock_salt_%28halitite%29_%28Billianwala_Salt_Member%2C_Salt_Range_Formation%2C_Ediacaran_to_Lower_Cambrian%3B_Khewra_Salt_Mine%2C_Salt_Range%2C_Pakistan%29_14.jpg/960px-Rock_salt_%28halitite%29_%28Billianwala_Salt_Member%2C_Salt_Range_Formation%2C_Ediacaran_to_Lower_Cambrian%3B_Khewra_Salt_Mine%2C_Salt_Range%2C_Pakistan%29_14.jpg"
+    },
+    {
+      "name": "Refined Sugar",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sucre_blanc_cassonade_complet_rapadura.jpg/960px-Sucre_blanc_cassonade_complet_rapadura.jpg"
+    },
+    {
+      "name": "Wheat Flour",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Whole_wheat_grain_flour_being_scooped.jpg/960px-Whole_wheat_grain_flour_being_scooped.jpg"
+    },
+    {
+      "name": "Toor Dal (Lentils)",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cajanus_cajan_Blanco1.167-cropped.jpg/960px-Cajanus_cajan_Blanco1.167-cropped.jpg"
+    },
+    {
+      "name": "Chana Dal",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chickpea_BNC.jpg/960px-Chickpea_BNC.jpg"
+    },
+    {
+      "name": "Sunflower Oil",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/960px-Sunflower_sky_backdrop.jpg"
+    },
+    {
+      "name": "Mustard Oil",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustard_Oil_%26_Seeds_-_Kolkata_2003-10-31_00537.JPG/960px-Mustard_Oil_%26_Seeds_-_Kolkata_2003-10-31_00537.JPG"
+    },
+    {
+      "name": "Green Tea",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Green_tea_3_appearances.jpg"
+    },
+    {
+      "name": "Coffee Beans",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/960px-Roasted_coffee_beans.jpg"
+    },
+    {
+      "name": "Jaggery",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sa-indian-gud.jpg/960px-Sa-indian-gud.jpg"
+    }
+  ],
+  "rice": [
+    {
+      "name": "Premium Basmati Rice",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Khyma_and_Basmati_rice.jpg"
+    },
+    {
+      "name": "Sona Masoori Rice",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Half_a_cup_of_rice._Brown_rice_is_the_best_choice.JPG/960px-Half_a_cup_of_rice._Brown_rice_is_the_best_choice.JPG"
+    },
+    {
+      "name": "Jasmine Rice",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2014_uncooked_Thai_jasmine_rice.jpg/960px-2014_uncooked_Thai_jasmine_rice.jpg"
+    },
+    {
+      "name": "Brown Rice",
+      "img": "https://placehold.co/600x400/eeeeee/333333?text=Brown%20Rice"
+    },
+    {
+      "name": "Parboiled Rice",
+      "img": "https://placehold.co/600x400/eeeeee/333333?text=Parboiled%20Rice"
+    },
+    {
+      "name": "Sticky Rice",
+      "img": "https://placehold.co/600x400/eeeeee/333333?text=Sticky%20Rice"
+    },
+    {
+      "name": "Sushi Rice",
+      "img": "https://placehold.co/600x400/eeeeee/333333?text=Sushi%20Rice"
+    },
+    {
+      "name": "Black Rice",
+      "img": "https://placehold.co/600x400/eeeeee/333333?text=Black%20Rice"
+    },
+    {
+      "name": "Broken Rice",
+      "img": "https://placehold.co/600x400/eeeeee/333333?text=Broken%20Rice"
+    },
+    {
+      "name": "Organic Basmati",
+      "img": "https://placehold.co/600x400/eeeeee/333333?text=Organic%20Basmati"
+    }
+  ]
+}
